@@ -1,6 +1,6 @@
 #include <stdio.h>
 void main()
 {
-    printf("Hellow world");
+    printf("Hello I made this change. My name is vipin");
     printf("\nLearning git\nLearned something");
 }

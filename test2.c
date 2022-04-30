@@ -2,5 +2,5 @@
 void main()
 {
     printf("Hellow world");
-    printf("\nLearning git");
+    printf("\nLearning git\nLearned something");
 }

@@ -1,6 +1,8 @@
 #include <stdio.h>
 void main()
 {
-    printf("Hello I made this change. My name is vipin");
-    printf("\nLearning git\nLearned something");
+    int i, j;
+    i = 1;
+    j = 2;
+    printf("return sum of 1+2 : %d", (i + j));
 }

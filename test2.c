@@ -7,4 +7,5 @@ void main()
     printf("return sum of 1+2 : %d", (i + j));
     printf("\nreturn difference of 1-2 : %d", (i - j));
     printf("\nreturn multiplication of 1*2 : %d", (i * j));
+    printf("\nJust practicing");
 }
